@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="titleBarIconStyle">
+        <item name="android:layout_width">@dimen/icon_m</item>
+        <item name="android:layout_height">@dimen/icon_m</item>
+        <item name="android:padding">6dp</item>
+    </style>
+    <style name="textStyle_title_bar" parent="textStyle_base">
+        <item name="android:textSize">@dimen/text_l</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="textStyle_base" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+</resources>

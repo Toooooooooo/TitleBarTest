@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="@dimen/titleBar_height"
+    android:background="@color/blue_bg"
+    android:gravity="center_vertical"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp">
+
+    <ImageView
+        android:id="@+id/iv_titleBar_left"
+        style="@style/titleBarIconStyle" />
+
+        <TextView
+            android:id="@+id/tv_titleBar_title"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            style="@style/textStyle_title_bar"
+            android:text=""
+            />
+    <ImageView
+        android:id="@+id/iv_titleBar_right"
+        style="@style/titleBarIconStyle" />
+</LinearLayout>
