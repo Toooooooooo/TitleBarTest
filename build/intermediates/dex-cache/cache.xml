@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_d6bff545f8f9e6f64829a5bae1ceaee7b4ad6b36.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ae85fdbda62b8b989a2042167810b358d08b0c91.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_39c00b0a61d75d1525ddf1d25db2579eeb961b6e.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\TitleBarTest\mytitlebarlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="24f148675c0bd0db630cb5e3bebd112791317f2a">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\TitleBarTest-mytitlebarlibrary-unspecified_f0b7afb5545ed4cc25954331962df01707cc0bf4.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_28772514a1a3cd120449f5f8e1b2285133111595.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9768eb2c016f186271f2531524831949ab980bf1.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e6bd1cb273e6535c6eb0a17137ca3df30ea88c58.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_8773e4f4674b9f7dd88386408b9433c060b535a2.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b69704fb8e836b7e6a802750aa027bbe3124c9df.jar" />
+    </item>
+    <item
+        jar="D:\android\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_db87f57fb403ecaa7392d3ff6320d400ba7edd12.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_249e10ffe95715722ee81bcc4c3f40d22061c19e.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0657f277f90e978d20158d3f36db397e5f6f6672.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_30f2c9c9f71164add58061c4534b9bad41b8a433.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d8d928baf5838b7468c7239ea656ee368f58cbb.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cb99ecf8d5d7d67b3418c20a2ac529756d819074.jar" />
+    </item>
+    <item
+        jar="D:\ASWorkspace\TitleBarTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\ASWorkspace\TitleBarTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3c87629e487ccd700f2eebcb8754fb1eb2062b24.jar" />
+    </item>
+
+</items>
