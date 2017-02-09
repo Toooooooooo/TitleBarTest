@@ -7,11 +7,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-/**
- * @features: TitleBar widget
- * @author: WuTao
- * @date: 2017/2/9 15:24
- */
 public class TitleBar  extends LinearLayout {
     private ImageView iv_left;
     private ImageView iv_right;
